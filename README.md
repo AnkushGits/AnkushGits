@@ -53,10 +53,6 @@
 </a>
 
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-</a>
-
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
 </a>
