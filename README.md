@@ -96,79 +96,29 @@
 
 </p>
 
----
-
-# 🚀 Featured Projects
-
-⭐ **Quiz Game (HTML CSS JS)**  
-Interactive quiz web app.
-
-⭐ **Jarvis AI Assistant (Python)**  
-Voice controlled PC automation assistant.
-
-⭐ **YouTube Analytics Chatbot**  
-AI chatbot that analyzes YouTube videos.
-
-⭐ **Local Services Booking Platform**  
-Connect users with nearby service providers.
-
-⭐ **Founder – Investor Platform**  
-Startup idea marketplace connecting founders with investors.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnkushGits&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Most Used Languages
 
-<p align="center">
+<p align="right">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushGits&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+</a>
 
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+</a>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AnkushGits&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnkushGits&theme=tokyonight&row=1&column=7"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+</a>
 
 </p>
-
----
 
 # ✨ Developer Quote
 
 <p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AnkushGits&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
