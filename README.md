@@ -101,7 +101,7 @@
 
 # 📈 Most Used Languages
 
-<p align="space-between">
+<p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://skillicons.dev/icons?i=html" width="50"/>
