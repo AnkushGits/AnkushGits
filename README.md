@@ -84,18 +84,6 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 </a>
 
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/>
-</a>
-
 </p>
 
 
@@ -113,6 +101,14 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://skillicons.dev/icons?i=c" width="50"/>
 </a>
 
 </p>
