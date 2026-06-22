@@ -39,12 +39,11 @@
 ---
 
 # 🌍 My Websites
-
-💻 Portfolio: https://techxansh.netlify.app/  
-
-🧑‍💼 TechAnshLearning: https://techanshlearning.netlify.app/
-
-👨‍💻 Developer Team: https://teamwebdev.netlify.app/
+💻 Portfolio: https://ankushnarukaportfolio.netlify.app/
+<br><br>
+<a href="https://www.linkedin.com/in/ankush-naruka-a8543a380" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40"/>
+</a>
 
 ---
 
@@ -105,10 +104,6 @@
 
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" width="50"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="https://skillicons.dev/icons?i=c" width="50"/>
 </a>
 
 </p>
