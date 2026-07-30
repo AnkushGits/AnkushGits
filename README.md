@@ -30,20 +30,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40"/>
 </a>
 
-<a href="https://leetcode.com/u/Ankushnaruka/" target="blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40" width="40"/>
-</a>
-
 </p>
-
----
-
-# 🌍 My Websites
-💻 Portfolio: https://ankushnarukaportfolio.netlify.app/
-<br><br>
-<a href="https://www.linkedin.com/in/ankush-naruka-a8543a380" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40"/>
-</a>
 
 ---
 
