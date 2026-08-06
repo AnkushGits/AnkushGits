@@ -30,6 +30,10 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40"/>
 </a>
 
+<a href="https://ankush-naruka.vercel.app/">
+  <img width="30" height="30" src="https://img.icons8.com/ios/50/portfolio.png" alt="portfolio"/>
+</a>
+
 </p>
 
 ---
